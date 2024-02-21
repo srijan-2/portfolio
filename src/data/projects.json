@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Air Quality Index Prediction",
+    "imageSrc": "projects/aqi.png",
+    "description": "AQI Prediction using ML, with website based on Flask",
+    "skills": [ "Machine Learning", "Flask"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/tictac.png",
+    "description": "Designed a minimalist looking Tic - Tac web application for friends to play. ",
+    "skills": ["ReactJS", "HTML","NodeJS","Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Comparative Analysis of Skin Disease",
+    "imageSrc": "projects/skin.png",
+    "description": "Used six different ML model to find best one for skin disease dataset",
+    "skills": ["Machine Learning","Tensorflow"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Workout Planner App",
+    "imageSrc": "projects/workout.png",
+    "description": "Built a cross - compatible user friendly app to choose the exercise easily and plan accordingly",
+    "skills": ["Flutter", "Android","iOS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
